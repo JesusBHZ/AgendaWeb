@@ -9,5 +9,6 @@ email varchar(50)
 INSERT INTO personas(nombre,email)
 VALUES
 ('Dejah','dejah@email.com'),
-('Jonh','jonh@email.com');
+('Jonh','jonh@email.com'),
+('Jose','jose@gmail.com');
 SELECT * FROM personas;
